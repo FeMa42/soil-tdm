@@ -1,4 +1,4 @@
-# Single- and Multi-Agent Imitation Learning Framework
+# Imitation Learning Framework
 
 This repository contains the code for the paper "Imitation learning by state-only distribution matching" by Damian Boborzi, Christoph-Nikolas Straehle, Jens S. Buchner, and Lars Mikelsons.
 
