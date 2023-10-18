@@ -1,0 +1,76 @@
+# Compiled source #
+###################
+__pycache__/
+*/__pycache__/
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+save_pid.txt
+logs
+tripinfo.xml
+*tfevents*
+*.png
+tmp*.csv
+Experiments/*/run/*/setting.txt
+
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# experiment folder #
+#####################
+Experiments/*
+#!Experiments/*.csv
+*.npy
+*.png
+*options.json
+*sim.yaml
+*Sumo_multi-v0_metrics.csv
+
+#data#
+#####################
+lcm_sumo/
+*.prof
+*.hdf5
+
+
+
+# IDE project files #
+####################
+.idea/workspace.xml
+.idea/tasks.xml
+.idea
+.vscode/settings.json
+.vscode/*
+.dccache
